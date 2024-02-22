@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @mcbraunie
 - 👀 I’m interested in the intersection of technology and disabilities and how we can use technology to enrich our lives
-- 🌱 I’m currently learning JSX and React/React-Native
+- 🌱 I’m currently working on projects in data analysis and management
 -    I’m looking to collaborate on any research/internship opportunities pertaining to the above
 - 📫 How to reach me: mcbraunie@gmail.com
 
